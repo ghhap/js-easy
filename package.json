@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghhap/js-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ghhap/js-easy/issues"
+  },
+  "homepage": "https://github.com/ghhap/js-easy#readme"
 }
